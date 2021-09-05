@@ -94,7 +94,7 @@ The full dataset is obtained from [GitHub](https://github.com/jafarijason/my-dat
 
 
 ## Machine Learning Models
-**This a comprehensive between 8 ML models**
+**This a comprehensive comparison between 8 ML models**
 - Stochastic Gradient Descent
 - Random Forest
 - Logistic Regression
